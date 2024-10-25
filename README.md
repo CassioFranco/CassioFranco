@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=JefersondaCruz&reversal=true&animation=blink&textBg=false&fontColor=">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=CassioFranco&reversal=true&animation=blink&textBg=false&fontColor=">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/CassioFranco/CassioFranco)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cassiofranco)
