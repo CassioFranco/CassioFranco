@@ -6,7 +6,7 @@
 
 
 # Sobre mim
-Sou Cássio Franco, atualmente tenho 22 anos. Curso Engenharia de Software pela Faculdade Campo Real, estou em busca de uma oportunidade profissional para que eu possa mostrar minhas habilidaes e conhecimentos. 
+Sou Cássio Franco, atualmente tenho 22 anos. Curso Engenharia de Software pela Faculdade Campo Real, estou em busca de uma oportunidade profissional para que eu possa mostrar minhas habilidades e conhecimentos. 
 # Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
