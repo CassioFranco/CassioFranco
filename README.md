@@ -6,7 +6,9 @@
 
 
 # Sobre mim
-Sou Cássio Franco, atualmente tenho 22 anos. Curso Engenharia de Software pela Faculdade Campo Real, estou em busca de uma oportunidade profissional para que eu possa mostrar minhas habilidades e conhecimentos. 
+Sou Cássio Franco, tenho 23 anos e atualmente curso Engenharia de Software pela Faculdade Campo Real. Além dos estudos, tenho grande interesse por tecnologia, desenvolvimento web e soluções práticas para o dia a dia.
+
+Aqui no GitHub, compartilho meus projetos acadêmicos, experimentos com novas tecnologias e iniciativas pessoais que refletem meu crescimento como desenvolvedor. Acredito na aprendizagem contínua e na construção de soluções que fazem a diferença, seja em ambientes acadêmicos, profissionais ou pessoais.
 # Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
