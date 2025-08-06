@@ -22,8 +22,3 @@ Sou Cássio Franco, atualmente tenho 22 anos. Curso Engenharia de Software pela 
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
-
-
-# GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CassioFranco&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![GitHub Streak](https://streak-stats.demolab.com?user=CassioFranco&theme=neon-dark&exclude_days=Sun%2CSat&card_width=370)](https://git.io/streak-stats)
